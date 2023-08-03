@@ -8,6 +8,4 @@
 5. Each 5 secs will buy suitable item automately.
 6. It will close the bot after 5 minutes.
 
-<video width="640" height="360" controls>
-  <source src="demo_video.mp4" type="video/mp4">
-</video>
+[點擊觀看影片](https://youtu.be/6Bsk-hlV_xo)
