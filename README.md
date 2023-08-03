@@ -8,6 +8,6 @@
 5. Each 5 secs will buy suitable item automately.
 6. It will close the bot after 5 minutes.
 
-<!-- <video width="640" height="360" controls>
+<video width="640" height="360" controls>
   <source src="./demo_video.mov" type="video/quicktime">
-</video> -->
+</video>
